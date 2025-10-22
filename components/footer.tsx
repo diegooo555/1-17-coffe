@@ -9,8 +9,8 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <Image src="/logo-116.png" alt="1:16 Café" width={32} height={32} className="h-8 w-8" />
-              <span className="font-bold text-xl">1:16</span>
+              <Image src="/logo-116.png" alt="1:17 Café" width={32} height={32} className="h-8 w-8" />
+              <span className="font-bold text-xl">1:17</span>
             </div>
             <p className="text-sidebar-foreground/80 mb-4 text-pretty">
               Café de especialidad desde 2025 de Boyacá. Cada taza cuenta una historia. Transformamos la percepción del
@@ -94,7 +94,7 @@ export function Footer() {
 
         <div className="border-t border-sidebar-border mt-8 pt-8 text-center">
           <p className="text-sidebar-foreground/60 text-sm">
-            © 2025 1:16 Café. Todos los derechos reservados. Desde Boyacá con amor.
+            © 2025 1:17 Café. Todos los derechos reservados. Desde Boyacá con amor.
           </p>
         </div>
       </div>

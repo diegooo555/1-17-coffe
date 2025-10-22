@@ -12,7 +12,7 @@ export function HeroSection() {
 
       <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 text-balance">
-          1:16 Café de Boyacá
+          1:17 Café de Boyacá
           <span className="block text-primary">Cada Taza Cuenta Una Historia</span>
         </h1>
 

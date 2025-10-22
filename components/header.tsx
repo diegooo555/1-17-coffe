@@ -15,7 +15,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center space-x-2">
             <Image src="/logo-116.png" alt="1:16 Café" width={50} height={50} className="h-12 w-12" />
-            <span className="font-bold text-xl text-foreground">1:16</span>
+            <span className="font-bold text-xl text-foreground">1:17</span>
           </Link>
 
           <nav className="hidden md:flex items-center space-x-8">
