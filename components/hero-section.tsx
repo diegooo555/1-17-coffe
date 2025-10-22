@@ -8,7 +8,7 @@ export function HeroSection() {
       id="inicio"
       className="relative min-h-[80vh] flex items-center justify-center bg-gradient-to-br from-background to-muted"
     >
-      <div className="absolute inset-0 bg-[url('/cozy-coffee-shop.png')] bg-cover bg-center opacity-10"></div>
+      <div className="absolute inset-0 bg-[url('/cozy-coffee-shop.png')] bg-cover bg-center opacity-35"></div>
 
       <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 text-balance">
