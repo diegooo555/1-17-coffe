@@ -14,11 +14,11 @@ export const metadata: Metadata = {
     title: "1:17 Café de Boyacá",
     description:
       "Cada taza cuenta una historia. Café orgánico y experiencias sensoriales únicas desde Boyacá.",
-    url: "https://tusitio.com", // cámbialo por tu dominio
+    url: "https://cafe-1-17.vercel.app", // cámbialo por tu dominio
     siteName: "1:17 Café de Boyacá",
     images: [
       {
-        url: "https://tusitio.com/og-image.jpg", // imagen para compartir en redes
+        url: "https://cafe-1-17.vercel.app/logo-116.png", // imagen para compartir en redes
         width: 1200,
         height: 630,
         alt: "Café de Boyacá",
